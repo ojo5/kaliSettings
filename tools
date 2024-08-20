@@ -1,5 +1,15 @@
+# Summary
 
+## Todo, fill out list;
 
+### Network Scanning and Enumeration
+Rustscan
 
-impacket
-# impacket-smbserver
+## Password Cracking;
+  0365spray
+
+## Detection
+  wafw00f
+
+## XSS
+  XSStrike
